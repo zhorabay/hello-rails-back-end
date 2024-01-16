@@ -55,7 +55,7 @@
 
 ## Frontend Link <a name="frontend-link"></a>
 
-- React Frontend Link [here](https://github.com/zhorabay/hello-rails-front-end.git)
+- React Frontend Link [here](https://github.com/zhorabay/hello-react-front-end.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
